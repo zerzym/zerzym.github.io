@@ -1,2 +1,0 @@
-# zerzym.github.io
-site
